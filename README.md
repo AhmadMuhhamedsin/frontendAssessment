@@ -1,6 +1,6 @@
-# Project Name
+# My assessment for the frontend junior developer position at Kuehne + Nagel
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/[username]/[reponame]/blob/main/LICENSE)
+
 
 ## Description
 
@@ -12,7 +12,6 @@ A React/JavaScript application that displays data from a mock API in a table vie
 * [Usage](#usage)
 * [License](#license)
 * [Contributing](#contributing)
-* [Tests](#tests)
 * [Questions](#questions)
 
 ## Installation
